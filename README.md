@@ -111,3 +111,58 @@ Published in:
 ⭐ *"Learning never stops. Every project is a step toward becoming a better AI researcher."*
 
 
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### AI & Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salman5371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman5371&layout=compact&theme=tokyonight"/>
+
+
+---
+
+## 🔥 GitHub Streak
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman5371&theme=tokyonight"/>
+
+
+---
+
+## 🏆 GitHub Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Salman5371&theme=tokyonight&row=1&column=6"/>
+
+
+---
+
+## 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=Salman5371&color=blue&style=flat-square"/>
+
+
