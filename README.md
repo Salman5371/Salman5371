@@ -5,24 +5,34 @@
 </div>
 
 
-# Hi there 👋, I'm Md. Salman Farshi
+<h1 align="center">Hi there 👋, I'm Md. Salman Farshi</h1>
 
-<img align="right" width="350" src="https://github.com/user-attachments/assets/github-banner-placeholder" />
 
-## 🚀 About Me
-
-I'm a Computer Science student from **American International University–Bangladesh (AIUB)** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Research**.
-
-My goal is to pursue an **MSc in Artificial Intelligence / Machine Learning ** and contribute to real-world AI research.
-
----
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Researcher+in+Progress;Machine+Learning+Enthusiast;Computer+Vision+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Researcher+in+Progress;Machine+Learning+Enthusiast;Computer+Vision+%7C+LLMs+%7C+Generative+AI;Building+Intelligent+Systems"/>
 
 </div>
 
-## 🔬 Research Interests
+
+## 🚀 About Me
+
+I am a **Computer Science & Engineering student at American International University–Bangladesh (AIUB)** with a strong interest in **Artificial Intelligence, Machine Learning, and Research**.
+
+My research focuses on building intelligent systems that solve real-world problems, especially in:
+
+- Artificial Intelligence
+- Computer Vision
+- Generative AI
+- Large Language Models
+- Agricultural AI
+
+My long-term goal is to pursue an **MSc in Artificial Intelligence / Machine Learning** and contribute to impactful AI research.
+
+
+---
+
+# 🔬 Research Interests
 
 - 🤖 Generative AI
 - 📚 Large Language Models (LLMs)
@@ -31,219 +41,159 @@ My goal is to pursue an **MSc in Artificial Intelligence / Machine Learning ** a
 - 👁️ Computer Vision
 - 🧠 Explainable AI (XAI)
 
----
 
 ---
 
-## 🧪 Research Projects
+
+# 🧪 Research Projects
 
 
-<table>
+## 🌱 Multi-Crop Plant Disease Detection
 
-<tr>
+An Explainable AI-based crop disease detection framework using deep learning.
 
-<td width="50%">
+### Technologies:
 
-<h3 align="center">🌱 Multi-Crop Plant Disease Detection</h3>
-
-<p align="center">
-
-Deep learning based explainable crop disease diagnosis system.
-
-<br><br>
-
-<b>Tech:</b>
-
-PyTorch • EfficientNetV2 • Grad-CAM • Computer Vision
-
-<br><br>
-
-<a href="https://github.com/Salman5371/Multi-crop-plant-disease-detection">
-Repository
-</a>
-
-</p>
-
-</td>
+- PyTorch
+- EfficientNetV2
+- MobileNetV2
+- Computer Vision
+- Grad-CAM
 
 
-<td width="50%">
+### Key Features:
 
-<h3 align="center">🤖 AC-RAG Framework</h3>
+- Multi-class plant disease classification
+- Explainable prediction visualization
+- Deep learning based diagnosis system
+- Smart farming decision support
 
-<p align="center">
 
-Adaptive Corrective Retrieval-Augmented Generation framework.
+Repository:
 
-<br><br>
+https://github.com/Salman5371/Multi-crop-plant-disease-detection
 
-<b>Focus:</b>
 
-Hybrid Retrieval • BM25 • FAISS • Reranking • LLM
-
-<br><br>
-
-Research Direction
-
-</p>
-
-</td>
-
-</tr>
-
-</table>
 
 ---
 
-## 🖼️ Project Showcase
 
-### 🌱 Multi-Crop Plant Disease Detection
+## 🤖 Adaptive Corrective RAG (AC-RAG)
 
-<p align="center">
+A research-oriented Retrieval-Augmented Generation framework.
 
-<img src="https://multi-crop-plant-disease-detection.streamlit.app/" width="700"/>
+### Research Focus:
 
-</p>
+- Hybrid Retrieval
+- BM25 + Vector Search
+- FAISS
+- Cross Encoder Reranking
+- LLM Generation
+- Adaptive Retrieval
 
-Demo results, model predictions, and explainability visualization using Grad-CAM.
 
 ---
 
----
-## 📄 Publications
 
----
-
-## 📚 Publications
+# 📄 Publications
 
 
-### 📄 IEEE Conference Paper
+## IEEE Conference Paper
 
 **A Machine Learning Approach for Evaluating District-Level Agricultural Performance, Instability, and Resilience in Bangladesh**
 
 📌 Conference:
+
 2026 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)
 
+
 🔬 Research Area:
+
 Machine Learning • Agricultural Analytics • Data-driven Decision Systems
 
+
 🔗 DOI:
+
 https://doi.org/10.1109/ICECTE69292.2026.11429268
 
----
----
+
 
 ---
 
-## 📚 Academic & Research Identity
 
-- 🎓 Computer Science & Engineering Student at American International University–Bangladesh (AIUB)
-- 🤖 Research Focus: Artificial Intelligence, Machine Learning, Computer Vision, Generative AI
-- 🌱 Application Domain: Agricultural AI and Intelligent Decision Systems
+# 🧑‍🔬 Academic & Research Identity
+
+
+- 🎓 Computer Science & Engineering Student at AIUB
+- 🤖 Research Focus: AI, ML, Computer Vision, Generative AI
+- 🌾 Application Domain: Agricultural AI
 - 📄 IEEE Conference Author
 - 🔬 Interested in Open Research and AI Innovation
 
-## 💻 Technical Skills
-
-**Languages**
-
-- Python
-- C++
-- JavaScript
-
-**AI & ML**
-
-- PyTorch
-- TensorFlow
-- Scikit-Learn
-- Hugging Face
-- Transformers
-
-**Tools**
-
-- Git
-- GitHub
-- Docker (Learning)
-- Linux
-- VS Code
 
 ---
 
-## 🌱 Currently Learning
 
-- Agentic AI
-- GraphRAG
-- AI Agents
-- Advanced RAG Systems
-- MLOps
+# 💻 Technical Skills
 
----
-
-## 🎯 Future Goals
-
-- Publish in Q1/Q2 Journals
-- Build Research-Grade AI Systems
-- Contribute to Open Source AI
-
----
-
-## 📫 Connect with Me
-
----
-
-## 📫 Contact
-
-<p align="left">
-
-<a href="https://github.com/Salman5371">
-<img src="https://img.shields.io/badge/GitHub-Salman5371-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="mailto:salmanfarshi.sdk@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-⭐ *"Learning never stops. Every project is a step toward becoming a better AI researcher."*
-
-
----
-
-## 🛠️ Tech Stack
 
 ### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
 
 ### AI & Machine Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 
 ---
 
-## 📊 GitHub Statistics
+
+# 🌱 Currently Learning
+
+- Agentic AI
+- GraphRAG
+- Advanced RAG Systems
+- AI Agents
+- MLOps
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salman5371&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+---
+
+
+# 📊 GitHub Statistics
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salman5371&show_icons=true&theme=tokyonight"/>
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman5371&layout=compact&theme=tokyonight"/>
 
 
+
 ---
 
-## 🔥 GitHub Streak
+
+# 🔥 GitHub Streak
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salman5371&theme=tokyonight"/>
@@ -251,148 +201,93 @@ https://doi.org/10.1109/ICECTE69292.2026.11429268
 
 ---
 
-## 🏆 GitHub Achievements
+
+# 🏆 GitHub Achievements
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=Salman5371&theme=tokyonight&row=1&column=6"/>
 
 
 ---
 
-## 👀 Profile Visitors
 
-<img src="https://komarev.com/ghpvc/?username=Salman5371&color=blue&style=flat-square"/>
+# 🌍 Research Profiles
 
-
----
-
-## 🧑‍🔬 Research Journey
-2024
-|
-|-- Started exploring Machine Learning & Data Science
-|
-2025
-|
-|-- Worked on AI-based research projects
-|
-2026
-|
-|-- Published IEEE Conference Paper
-|-- Developed Explainable AI Plant Disease Detection System
-|
-2027+
-|
-|-- MSc in Artificial Intelligence / Machine Learning
-|-- Advanced AI Research & Publications
-
----
-
-## 🌍 Research Profiles
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/salman-farshi65/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://scholar.google.com/citations?user=_iIuVRIAAAAJ&hl=en&oi=ao">
-<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/0009-0000-4653-767X">
-<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://www.researchgate.net/profile/Md-Farshi-2">
-<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Salman5371">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
 
----
-
-## 🚀 Featured Projects
-
-
-### 🌱 Multi-Crop Plant Disease Detection
-
-Deep Learning based explainable crop disease classification system.
-
-**Tech:**
-
-PyTorch • EfficientNetV2 • Grad-CAM • Computer Vision
-
-Repository:
-https://github.com/Salman5371/Multi-crop-plant-disease-detection
+<a href="https://www.linkedin.com/in/salman-farshi65/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
 
----
+<a href="https://scholar.google.com/citations?user=_iIuVRIAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar"/>
+</a>
 
 
-### 🤖 Adaptive Corrective RAG Framework (AC-RAG)
+<a href="https://orcid.org/0009-0000-4653-767X">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid"/>
+</a>
 
-Research-oriented Retrieval-Augmented Generation framework.
 
-Focus:
-
-- Hybrid Retrieval
-- BM25 + Vector Search
-- Reranking
-- LLM Generation
+<a href="https://www.researchgate.net/profile/Md-Farshi-2">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate"/>
+</a>
 
 
 ---
 
----
 
-## 📈 Research Highlights
-
-| Category | Achievement |
-|---|---|
-| Publication | IEEE Conference Paper |
-| Main Research Area | AI & Machine Learning |
-| Computer Vision | Plant Disease Detection |
-| Explainability | Grad-CAM Based XAI |
-| Current Focus | Generative AI & RAG |
-
----
-<div align="center">
-
----
-
-## 🔭 Currently Working On
+# 🔭 Currently Working On
 
 - 🌾 Improving AI solutions for smart agriculture
-- 🤖 Exploring Large Language Models (LLMs)
+- 🤖 Exploring Large Language Models
 - 🔎 Building advanced RAG pipelines
-- 🧠 Studying Explainable AI techniques
-- 📚 Preparing for future AI research opportunities
+- 🧠 Studying Explainable AI
+
 
 ---
 
----
 
-## 🧠 Research Philosophy
+# 🧠 Research Philosophy
+
 
 > "Building intelligent systems that combine AI research with real-world impact."
 
+
 My goal is to develop AI solutions that are:
+
 - Reliable
 - Explainable
 - Practical
 - Research-driven
 
+
 ---
 
-### ⭐ Thanks for visiting my profile!
+
+# 📫 Contact
+
+
+<a href="mailto:salmanfarshi.sdk@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+
+
+<div align="center">
+
+
+⭐ Thanks for visiting my profile!
+
 
 *"Exploring AI, building solutions, and contributing to research."*
 
+
 </div>
-
-
-
-
