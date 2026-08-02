@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science graduate from **American International University–Bangladesh (AIUB)** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Research**.
+I'm a Computer Science student from **American International University–Bangladesh (AIUB)** with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Research**.
 
 My goal is to pursue an **MSc in Artificial Intelligence / Machine Learning ** and contribute to real-world AI research.
 
