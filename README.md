@@ -98,7 +98,6 @@ Published in:
 
 - Publish in Q1/Q2 Journals
 - Build Research-Grade AI Systems
-- Pursue MSc in Germany
 - Contribute to Open Source AI
 
 ---
