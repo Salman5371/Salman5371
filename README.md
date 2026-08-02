@@ -58,6 +58,17 @@ Published in:
 2026 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)
 
 ---
+
+---
+
+## 📚 Academic & Research Identity
+
+- 🎓 Computer Science & Engineering Student at American International University–Bangladesh (AIUB)
+- 🤖 Research Focus: Artificial Intelligence, Machine Learning, Computer Vision, Generative AI
+- 🌱 Application Domain: Agricultural AI and Intelligent Decision Systems
+- 📄 IEEE Conference Author
+- 🔬 Interested in Open Research and AI Innovation
+
 ## 💻 Technical Skills
 
 **Languages**
@@ -104,9 +115,21 @@ Published in:
 
 ## 📫 Connect with Me
 
-- GitHub: https://github.com/Salman5371
-
 ---
+
+## 📫 Contact
+
+<p align="left">
+
+<a href="https://github.com/Salman5371">
+<img src="https://img.shields.io/badge/GitHub-Salman5371-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:salmanfarshi.sdk@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ⭐ *"Learning never stops. Every project is a step toward becoming a better AI researcher."*
 
@@ -164,5 +187,91 @@ Published in:
 ## 👀 Profile Visitors
 
 <img src="https://komarev.com/ghpvc/?username=Salman5371&color=blue&style=flat-square"/>
+
+
+---
+
+## 🧑‍🔬 Research Journey
+2024
+|
+|-- Started exploring Machine Learning & Data Science
+|
+2025
+|
+|-- Worked on AI-based research projects
+|
+2026
+|
+|-- Published IEEE Conference Paper
+|-- Developed Explainable AI Plant Disease Detection System
+|
+2027+
+|
+|-- MSc in Artificial Intelligence / Machine Learning
+|-- Advanced AI Research & Publications
+
+---
+
+## 🌍 Research Profiles
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/salman-farshi65/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://scholar.google.com/citations?user=_iIuVRIAAAAJ&hl=en&oi=ao">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/0009-0000-4653-767X">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="https://www.researchgate.net/profile/Md-Farshi-2">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Salman5371">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+
+### 🌱 Multi-Crop Plant Disease Detection
+
+Deep Learning based explainable crop disease classification system.
+
+**Tech:**
+
+PyTorch • EfficientNetV2 • Grad-CAM • Computer Vision
+
+Repository:
+https://github.com/Salman5371/Multi-crop-plant-disease-detection
+
+
+---
+
+
+### 🤖 Adaptive Corrective RAG Framework (AC-RAG)
+
+Research-oriented Retrieval-Augmented Generation framework.
+
+Focus:
+
+- Hybrid Retrieval
+- BM25 + Vector Search
+- Reranking
+- LLM Generation
+
+
+---
+
+
 
 
