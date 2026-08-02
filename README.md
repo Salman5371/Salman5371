@@ -94,16 +94,43 @@ Research Direction
 </table>
 
 ---
+
+## 🖼️ Project Showcase
+
+### 🌱 Multi-Crop Plant Disease Detection
+
+<p align="center">
+
+<img src="https://multi-crop-plant-disease-detection.streamlit.app/" width="700"/>
+
+</p>
+
+Demo results, model predictions, and explainability visualization using Grad-CAM.
+
+---
+
 ---
 ## 📄 Publications
 
-### IEEE Conference Publication (ICECTE 2026)
+---
+
+## 📚 Publications
+
+
+### 📄 IEEE Conference Paper
 
 **A Machine Learning Approach for Evaluating District-Level Agricultural Performance, Instability, and Resilience in Bangladesh**
 
-Published in:
+📌 Conference:
 2026 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)
 
+🔬 Research Area:
+Machine Learning • Agricultural Analytics • Data-driven Decision Systems
+
+🔗 DOI:
+https://doi.org/10.1109/ICECTE69292.2026.11429268
+
+---
 ---
 
 ---
@@ -333,6 +360,32 @@ Focus:
 
 ---
 <div align="center">
+
+---
+
+## 🔭 Currently Working On
+
+- 🌾 Improving AI solutions for smart agriculture
+- 🤖 Exploring Large Language Models (LLMs)
+- 🔎 Building advanced RAG pipelines
+- 🧠 Studying Explainable AI techniques
+- 📚 Preparing for future AI research opportunities
+
+---
+
+---
+
+## 🧠 Research Philosophy
+
+> "Building intelligent systems that combine AI research with real-world impact."
+
+My goal is to develop AI solutions that are:
+- Reliable
+- Explainable
+- Practical
+- Research-driven
+
+---
 
 ### ⭐ Thanks for visiting my profile!
 
