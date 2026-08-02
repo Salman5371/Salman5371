@@ -1,3 +1,10 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Md.%20Salman%20Farshi&fontSize=50&fontAlignY=35&animation=twinkling"/>
+
+</div>
+
+
 # Hi there 👋, I'm Md. Salman Farshi
 
 <img align="right" width="350" src="https://github.com/user-attachments/assets/github-banner-placeholder" />
@@ -9,6 +16,11 @@ I'm a Computer Science graduate from **American International University–Bangl
 My goal is to pursue an **MSc in Artificial Intelligence / Machine Learning ** and contribute to real-world AI research.
 
 ---
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Researcher+in+Progress;Machine+Learning+Enthusiast;Computer+Vision+%7C+Generative+AI+%7C+LLMs;Building+Intelligent+Systems"/>
+
+</div>
 
 ## 🔬 Research Interests
 
@@ -21,32 +33,67 @@ My goal is to pursue an **MSc in Artificial Intelligence / Machine Learning ** a
 
 ---
 
-## 🚀 Current Projects
-
-### 🌱 Multi-Crop Plant Disease Detection
-
-Explainable AI-based crop disease diagnosis system using deep learning.
-
-Features:
-
-- EfficientNetV2
-- Grad-CAM
-- Decision Support
-- Streamlit Deployment
-
 ---
 
-### 🤖 AC-RAG
+## 🧪 Research Projects
 
-Adaptive Self-Correcting Retrieval-Augmented Generation Framework
 
-Current Features:
+<table>
 
-- Hybrid Retrieval (FAISS + BM25)
-- Cross Encoder Reranking
-- Adaptive Retrieval
-- Qwen2.5 Generation
+<tr>
 
+<td width="50%">
+
+<h3 align="center">🌱 Multi-Crop Plant Disease Detection</h3>
+
+<p align="center">
+
+Deep learning based explainable crop disease diagnosis system.
+
+<br><br>
+
+<b>Tech:</b>
+
+PyTorch • EfficientNetV2 • Grad-CAM • Computer Vision
+
+<br><br>
+
+<a href="https://github.com/Salman5371/Multi-crop-plant-disease-detection">
+Repository
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">🤖 AC-RAG Framework</h3>
+
+<p align="center">
+
+Adaptive Corrective Retrieval-Augmented Generation framework.
+
+<br><br>
+
+<b>Focus:</b>
+
+Hybrid Retrieval • BM25 • FAISS • Reranking • LLM
+
+<br><br>
+
+Research Direction
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
 ---
 ## 📄 Publications
 
@@ -271,6 +318,27 @@ Focus:
 
 
 ---
+
+---
+
+## 📈 Research Highlights
+
+| Category | Achievement |
+|---|---|
+| Publication | IEEE Conference Paper |
+| Main Research Area | AI & Machine Learning |
+| Computer Vision | Plant Disease Detection |
+| Explainability | Grad-CAM Based XAI |
+| Current Focus | Generative AI & RAG |
+
+---
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Exploring AI, building solutions, and contributing to research."*
+
+</div>
 
 
 
