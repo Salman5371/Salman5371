@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:0B3B5A,100:0077B6&height=210&section=header&text=MD.%20SAlMAN%20FARSHI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=Artificial%20Intelligence%20%7C%20Machine%20Learning%20%7C%20Research&descAlignY=56&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2B,50:0B3B5A,100:0077B6&height=210&section=header&text=MD.%20SALMAN%20FARSHI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Research&descAlignY=56&descSize=18&animation=fadeIn"/>
 
 # Hi, I'm Md. Salman Farshi 👋
 
@@ -32,38 +32,36 @@
 
 ## About Me
 
-I am a **Computer Science and Engineering student** at the
-**American International University–Bangladesh — AIUB**, with a research focus on **Artificial Intelligence and Machine Learning**.
+I am a **final-semester Computer Science and Engineering student** at the
+**American International University–Bangladesh (AIUB)**, with a primary research focus on **Artificial Intelligence and Machine Learning**.
 
-My work explores reliable, explainable, and practical AI systems, particularly in computer vision, retrieval-augmented generation, generative AI, and smart agriculture.
+My work explores the development of reliable, explainable, and research-driven AI systems, particularly in:
 
-I aim to pursue an **MSc in Artificial Intelligence or Machine Learning** and contribute to impactful academic and applied AI research.
+* Computer Vision
+* Retrieval-Augmented Generation
+* Generative AI
+* Explainable Artificial Intelligence
+* AI for Agriculture
+
+I am interested in transforming AI research into practical systems that address real-world challenges.
+
+My long-term goal is to pursue an **MSc in Artificial Intelligence or Machine Learning** and contribute to impactful academic and industrial research.
 
 ---
 
 # Featured Research
 
-## 🌱 Multi-Crop Plant Disease Detection
+## Multi-Crop Plant Disease Detection
 
-An explainable deep-learning framework for detecting diseases across multiple crop categories from plant-leaf images.
+An explainable deep-learning framework for identifying diseases across multiple crop categories from plant-leaf images.
 
 ### Research Objectives
 
 * Develop an accurate multi-class crop disease classification system
 * Compare efficient deep-learning architectures
 * Generate explainable predictions using Grad-CAM
-* Support AI-assisted crop disease diagnosis
-* Build a practical smart agriculture application
-
-### Key Features
-
-* Multi-crop disease recognition
-* Multi-class image classification
-* Explainable prediction visualization
-* Model confidence estimation
-* User-friendly diagnostic interface
-* Downloadable prediction reports
-* Farmer-focused disease alerts and management guidance
+* Support farmers with AI-assisted disease diagnosis
+* Build a deployment-ready smart agriculture application
 
 ### Core Technologies
 
@@ -76,19 +74,15 @@ An explainable deep-learning framework for detecting diseases across multiple cr
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-### Explainable Prediction
+### Key Features
 
-<p align="center">
-  <img
-    src="assets/multicrop-gradcam-result.png"
-    alt="Multi-Crop Plant Disease Detection with Grad-CAM"
-    width="850"
-  />
-</p>
-
-<p align="center">
-  <em>Example crop disease prediction with Grad-CAM-based visual explanation.</em>
-</p>
+* Multi-crop disease recognition
+* Multi-class image classification
+* Explainable prediction visualization
+* Model confidence estimation
+* User-friendly diagnostic interface
+* Smart farming decision support
+* Downloadable prediction reports
 
 ### Project Links
 
@@ -96,54 +90,37 @@ An explainable deep-learning framework for detecting diseases across multiple cr
 [Multi-Crop Plant Disease Detection](https://github.com/Salman5371/Multi-crop-plant-disease-detection)
 
 🌐 **Live Application:**
-[Open the Streamlit Application](https://multi-crop-plant-disease-detection.streamlit.app/)
+[Open Streamlit Application](https://multi-crop-plant-disease-detection.streamlit.app/)
 
 ---
 
-## 🤖 Adaptive Corrective RAG — AC-RAG
+## Adaptive Corrective RAG — AC-RAG
 
-A research-oriented Retrieval-Augmented Generation framework designed to improve retrieval relevance, context quality, and generated-response reliability.
+A research-oriented Retrieval-Augmented Generation framework designed to improve retrieval relevance, answer grounding, and generated-response reliability.
 
-> 🚧 **Current Status: Under Active Research and Development**
+> 🚧 **Current Status:** Under Active Research and Development
 
 ### Research Objectives
 
 * Improve the relevance of retrieved documents
 * Combine sparse and dense retrieval methods
 * Reduce irrelevant context supplied to the language model
-* Adapt retrieval strategies to different query types
 * Generate answers grounded in retrieved evidence
-* Evaluate retrieval and generation performance
+* Develop an adaptive retrieval strategy for different query types
+* Evaluate retrieval quality and generation performance
 
-### Proposed Architecture
-
-<p align="center">
-  <img
-    src="assets/ac-rag-architecture.png"
-    alt="Adaptive Corrective RAG Architecture"
-    width="900"
-  />
-</p>
-
-<p align="center">
-  <em>
-    AC-RAG pipeline combining hybrid retrieval, cross-encoder reranking,
-    adaptive context selection, and grounded generation.
-  </em>
-</p>
-
-### Pipeline
+### Core Architecture
 
 ```text
 User Query
     ↓
-Query Analysis and Classification
+Query Analysis
     ↓
 Hybrid Retrieval
     ├── BM25 Sparse Retrieval
-    └── FAISS Dense Retrieval with BGE Embeddings
+    └── FAISS Dense Retrieval
     ↓
-Candidate Fusion
+Candidate Document Fusion
     ↓
 Cross-Encoder Reranking
     ↓
@@ -156,15 +133,15 @@ Final Response
 
 ### Core Components
 
-* Hybrid sparse and dense retrieval
-* BM25 keyword-based retrieval
-* FAISS vector similarity search
-* BGE text embeddings
-* Cross-encoder reranking
-* Adaptive query classification
-* Context selection
-* Qwen2.5-based response generation
-* Retrieval and generation evaluation
+* Hybrid Retrieval
+* BM25 Keyword Search
+* FAISS Vector Search
+* BGE Text Embeddings
+* Cross-Encoder Reranking
+* Adaptive Query Classification
+* Context Selection
+* Qwen2.5-Based Generation
+* Retrieval and Generation Evaluation
 
 ### Technology Stack
 
@@ -180,7 +157,7 @@ Final Response
 
 ### Research Direction
 
-The project investigates whether adaptive retrieval and reranking can improve:
+The project investigates how an adaptive retrieval pipeline can improve:
 
 * Document relevance
 * Context precision
@@ -189,72 +166,87 @@ The project investigates whether adaptive retrieval and reranking can improve:
 * Retrieval efficiency
 * Robustness across different query types
 
-<!-- Add the AC-RAG repository link here when the public repository is ready. -->
+> The source code and evaluation results will be published after the research implementation reaches a stable stage.
 
 ---
 
 # Publication
 
-## IEEE Conference Paper
+## IEEE Conference Publication
 
 ### A Machine Learning Approach for Evaluating District-Level Agricultural Performance, Instability, and Resilience in Bangladesh
 
-*2026 5th International Conference on Electrical, Computer & Telecommunication Engineering — ICECTE*
+📍 **Conference:**
+2026 5th International Conference on Electrical, Computer & Telecommunication Engineering — ICECTE
 
 ### Research Areas
 
 * Machine Learning
 * Agricultural Analytics
-* District-Level Performance Assessment
-* Agricultural Instability Analysis
-* Resilience Evaluation
+* District-Level Performance Evaluation
+* Agricultural Instability Assessment
+* Resilience Analysis
 * Data-Driven Decision Systems
 
-<a href="https://doi.org/10.1109/ICECTE69292.2026.11429268">
-<img src="https://img.shields.io/badge/DOI-10.1109%2FICECTE69292.2026.11429268-0072B1?style=flat-square&logo=doi&logoColor=white"/>
-</a>
+### Publication Link
+
+🔗 **DOI:**
+[10.1109/ICECTE69292.2026.11429268](https://doi.org/10.1109/ICECTE69292.2026.11429268)
+
+---
+
+# Research Progress
+
+### Published Research
+
+* IEEE conference research on agricultural performance, instability, and resilience analysis using machine learning
+
+### Deployed Research Project
+
+* Explainable multi-crop plant disease detection system with an interactive Streamlit application
+
+### Active Research
+
+* Adaptive Corrective Retrieval-Augmented Generation
+* Hybrid retrieval and cross-encoder reranking
+* Grounded generation using lightweight language models
+
+### Future Research Direction
+
+* Agentic AI
+* GraphRAG
+* Advanced RAG systems
+* Multimodal artificial intelligence
+* Explainable and trustworthy AI
+* MLOps for research systems
 
 ---
 
 # Research Interests
 
-* Artificial Intelligence and Machine Learning
-* Computer Vision and Explainable AI
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Large_Language_Models-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explainable_AI-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agricultural_AI-228B22?style=for-the-badge"/>
+
+</p>
+
+### Primary Focus
+
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
 * Retrieval-Augmented Generation
-* Large Language Models and Generative AI
+* Explainable Artificial Intelligence
+* Generative Artificial Intelligence
+* Large Language Models
 * AI for Agriculture
-* Trustworthy and Practical AI Systems
-
----
-
-# Current Research Focus
-
-* Developing adaptive and corrective RAG pipelines
-* Evaluating hybrid retrieval and cross-encoder reranking
-* Improving explainability in computer-vision systems
-* Exploring GraphRAG and agentic AI
-* Studying reproducible machine-learning experimentation
-* Building practical AI solutions for smart agriculture
-
----
-
-# Research Timeline
-
-## 2026
-
-* ✅ Published an IEEE conference paper on agricultural performance, instability, and resilience
-* ✅ Developed an explainable multi-crop disease detection framework
-* ✅ Deployed a smart agriculture application using Streamlit
-* 🚧 Developing the Adaptive Corrective RAG framework
-* 🔬 Evaluating hybrid retrieval, reranking, and grounded generation strategies
-
-## Next Research Goals
-
-* Complete the implementation and evaluation of AC-RAG
-* Publish the AC-RAG source code and technical documentation
-* Prepare research work for journal submission
-* Explore multimodal and agentic RAG systems
-* Pursue MSc opportunities in Artificial Intelligence and Machine Learning
 
 ---
 
@@ -296,30 +288,35 @@ The project investigates whether adaptive retrieval and reranking can improve:
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
----
+## Research Competencies
 
-# Research Competencies
-
-* Literature review and research problem formulation
-* Deep-learning model development
-* Model evaluation and comparative analysis
-* Explainable Artificial Intelligence
-* Retrieval-Augmented Generation systems
-* Academic writing and technical documentation
-* Research presentation and communication
+* Research problem formulation
+* Literature review
+* Dataset preparation
+* Data preprocessing
+* Model training and evaluation
+* Deep-learning experimentation
+* Hyperparameter tuning
+* Explainable AI visualization
+* Retrieval-system development
+* Academic paper preparation
+* Technical documentation
+* Research presentation
 
 ---
 
 # Currently Exploring
 
-<p>
-<img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/GraphRAG-00897B?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multimodal_AI-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Trustworthy_AI-2E8B57?style=flat-square"/>
-<img src="https://img.shields.io/badge/MLOps-007ACC?style=flat-square"/>
-</p>
+* Agentic Artificial Intelligence
+* AI Agents
+* GraphRAG
+* Advanced Retrieval-Augmented Generation
+* Self-Correcting RAG
+* Multimodal AI
+* Knowledge Graphs
+* Model Evaluation
+* Trustworthy AI
+* MLOps
 
 ---
 
@@ -351,13 +348,13 @@ The project investigates whether adaptive retrieval and reranking can improve:
 
 ---
 
-# GitHub Statistics
+# GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Salman5371&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Salman5371&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman5371&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salman5371&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -369,6 +366,51 @@ The project investigates whether adaptive retrieval and reranking can improve:
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Salman5371&theme=github-compact&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Salman5371&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<!--
+The contribution snake requires a GitHub Actions workflow.
+
+After configuring the workflow, uncomment the image below.
+
+<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Salman5371/Salman5371/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Salman5371/Salman5371/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Salman5371/Salman5371/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</p>
+-->
+
 ---
 
 # Research Philosophy
@@ -378,7 +420,8 @@ The project investigates whether adaptive retrieval and reranking can improve:
 I aim to develop artificial intelligence systems that are:
 
 * Scientifically grounded
-* Reliable and explainable
+* Reliable
+* Explainable
 * Reproducible
 * Computationally efficient
 * Practically applicable
@@ -397,6 +440,7 @@ I am interested in collaborating on:
 * Explainable AI research
 * Agricultural AI solutions
 * Open-source AI development
+* Undergraduate and graduate research initiatives
 
 I am also open to discussing:
 
@@ -412,7 +456,7 @@ I am also open to discussing:
 
 <div align="center">
 
-### Let's connect and build meaningful AI systems.
+### Let us connect and build meaningful AI systems.
 
 <a href="mailto:salmanfarshi.sdk@gmail.com">
 <img src="https://img.shields.io/badge/Email-salmanfarshi.sdk%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -432,7 +476,7 @@ I am also open to discussing:
 
 ### ⭐ Thank you for visiting my GitHub profile.
 
-**Let's build reliable AI that creates real-world impact.**
+**Let us build reliable AI that creates real-world impact.**
 
 <br>
 
